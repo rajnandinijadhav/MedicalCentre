@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="MedicalCentre/java"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-annotations-api-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-api-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-catalina-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-coyote-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-el-api-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-jaspic-api-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-jni-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-jsp-api-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-juli-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-servlet-api-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-util-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files/tomcat-util-scan-10.1.25.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files-2/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/jar_files-2/protobuf-java-3.19.4.jar"/>
+	<classpathentry kind="lib" path="/Users/rj.sometimes/Downloads/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
